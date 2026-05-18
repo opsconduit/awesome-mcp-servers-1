@@ -297,6 +297,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://www.make.com/favicon.ico" height="14"/> [Make](https://github.com/integromat/make-mcp-server)<sup><sup>⭐</sup></sup> - Turn Make scenarios into callable tools for AI assistants.
 - <img src="https://www.taskade.com/favicon.ico" height="14"/> [Taskade MCP](https://github.com/taskade/mcp)<sup><sup>⭐</sup></sup> - Official Taskade MCP server + OpenAPI → MCP codegen to build AI agent tools from any API and connect Taskade to Claude, Cursor, and more.
 
+- [OpsConduit Jobber MCP](https://github.com/opsconduit/jobber-mcp) - Customer-hosted, read-only MCP server for Jobber owner/admin operational queries.
+
 <br />
 
 ## 🤖 <a name="system-automation"></a>System Automation
